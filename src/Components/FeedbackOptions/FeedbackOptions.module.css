@@ -1,0 +1,16 @@
+.button {
+  margin: 10px;
+  padding: 5px;
+  width: 60px;
+  text-align: center;
+  border: 1px solid rgb(0, 0, 0);
+  border-radius: 10px;
+  outline: none;
+  background-color: transparent;
+
+  transition: all 400ms linear;
+}
+.button:hover {
+  color: rgb(255, 255, 255);
+  background-color: rgb(51, 151, 26);
+}
